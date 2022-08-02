@@ -23,6 +23,8 @@ test3test3
 test4test4
 test5
 test6
-experiment test
+<<<<<<< HEAD
 master test
-
+=======
+experiment test
+>>>>>>> experiment
