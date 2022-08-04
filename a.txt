@@ -30,4 +30,8 @@ master test2
 master3changed
 experiment3
 changed
+<<<<<<< HEAD
 master add 1
+=======
+experiment add 1
+>>>>>>> feat: experiment add 1
